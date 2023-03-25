@@ -1,5 +1,5 @@
 {
-    "name": "simplesamlphp/simplesamlphp-module-metarefresh",
+    "name": "semestry/ops-semestry-ssp-mod-metarefresh",
     "description": "The metarefresh module will download and parse metadata documents and store them locally",
     "type": "simplesamlphp-module",
     "keywords": ["simplesamlphp", "metarefresh"],
